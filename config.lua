@@ -21,4 +21,5 @@ Lang = {
     ['heaerd_openlabel'] = 'Open Tool Box',
     ['heaerd_pickup'] = 'Pick Up',
     ['heaerd_lockpick'] = '[🔧]Lock Pick',
+    
 }
