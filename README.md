@@ -11,7 +11,9 @@
 # Dependencies
 
 **[qb-target](https://github.com/qbcore-framework/qb-target)**
+
 **[qb-menu](https://github.com/qbcore-framework/qb-menu)**
+
 **[qb-core](https://github.com/qbcore-framework/qb-core)**
 
 ## Preview Pictures
