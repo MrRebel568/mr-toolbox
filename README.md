@@ -21,7 +21,7 @@
 ![Preview Screenshot](https://imgur.com/HCgGaXH.jpeg)
 
 If you need any help join my discord server
-**[MrRebel#7457]**
+**[Join Discord](https://discord.gg/XpdWyyT4Nm)**
 
 # Installation:
 
